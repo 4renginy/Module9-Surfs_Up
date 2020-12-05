@@ -18,8 +18,16 @@ Lets start with June as our summer month: After running our Summary Statistics f
 
 As you can see we have collected 1700 data points and the results showed the average temp is perfect 74-75 degree and it wont go below 64. 
 
-Lets do the December calculation now using the same code;
+Lets do the December calculation now using the same code. 
 
 ![](https://github.com/4renginy/Module9-Surfs_Up/blob/main/dec_results.PNG)
 
+The result shows that average temperature in December is 71 and it does not go down below 56 degree. For that we have used 1500 data points so it is enough to make a sound decisions.
+
+In oder to see the full list of temperatures and dates please follow the link
+[List] (https://github.com/4renginy/Module9-Surfs_Up/blob/main/app.py)
+
+## Result:
+
+Looking at the 
 
