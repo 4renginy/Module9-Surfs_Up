@@ -29,5 +29,5 @@ In oder to see the full list of temperatures and dates please follow the link
 
 ## Result:
 
-Looking at the 
+Looking at the data from June and December weahter is perfect to open a surfing and ice cream shop in Oahu.
 
