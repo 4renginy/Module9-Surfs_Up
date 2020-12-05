@@ -12,6 +12,14 @@ Our job is to calculate the precipitation and temperature statistics for the pro
 Picking a month in summer and a month in winter will give us an idea of what is the year around prospect for the business.
 Lets start with June as our summer month: After running our Summary Statistics for June code we found;
 
-[surfsup_challange code](https://github.com/4renginy/Module9-Surfs_Up/blob/main/SurfsUp_Challange.ipynb)gives us the statistics for the month of June. The best thing about this code is it would be used for any other monts too.
+[Surfsup_challange code](https://github.com/4renginy/Module9-Surfs_Up/blob/main/SurfsUp_Challange.ipynb)gives us the statistics for the month of June. The best thing about this code is it would be used for any other monts too.
 
 ![](https://github.com/4renginy/Module9-Surfs_Up/blob/main/june_results.PNG)
+
+As you can see we have collected 1700 data points and the results showed the average temp is perfect 74-75 degree and it wont go below 64. 
+
+Lets do the December calculation now using the same code;
+
+![](https://github.com/4renginy/Module9-Surfs_Up/blob/main/dec_results.PNG)
+
+
